@@ -20,6 +20,7 @@
 <a href="https://www.linkedin.com/in/chinazomuba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maazshakeel" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16744944/chinazom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15568160" height="30" width="40" /></a>
 <a href="https://instagram.com/naz_zeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marisab_oc" height="30" width="40" /></a>
+<a href="mailto:chinazomuba@gmail.com" target="_blank"><img src="images/official-gmail-icon.svg" alt="Gmail Logo" width="50"></a>&emsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
